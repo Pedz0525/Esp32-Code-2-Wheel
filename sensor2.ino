@@ -22,7 +22,7 @@ void setup() {
     analogWriteFreq(1000); 
 
     analogWrite(EnA, 100); 
-    analogWrite(EnB, 100)
+    analogWrite(EnB, 100);
     delay(1000);
 }
 
